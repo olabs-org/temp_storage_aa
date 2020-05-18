@@ -1,1 +1,6 @@
-# temp_storage_aa
+# temp storage aa
+
+```bash
+yarn
+node server.js
+```

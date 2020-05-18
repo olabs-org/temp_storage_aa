@@ -1,0 +1,13 @@
+{
+  "name": "temp_storage_aa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/olabs-org/temp_storage_aa",
+  "author": "xJeneKx <xxjenekxx@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "fastify": "^2.14.1",
+    "redis": "^3.0.2",
+    "uuid": "^8.0.0"
+  }
+}
